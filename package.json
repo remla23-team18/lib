@@ -2,7 +2,7 @@
   "name": "@remla23-team18/lib",
   "version": "1.0.1",
   "description": "A version-aware library",
-  "author": "",
+  "author": "Reuben Gardos Reid, Yuchuan Fu, Mehul Bhuradia",
   "license": "",
   "homepage": "https://github.com/remla23-team18/lib#readme",
   "repository": {
@@ -12,8 +12,8 @@
   "bugs": {
     "url": "https://github.com/remla23-team18/lib/issues"
   },
-  "main": "lib/index.ts",
-  "types": "lib/index.d.ts",
+  "main": "lib/src/index.js",
+  "types": "lib/src/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "format": "prettier --write \"src/**/*\" \"./*.json\"",
